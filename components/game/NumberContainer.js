@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View } from "react-native";
 
-import Colors from "../../constants/colors";
+import Colors from "../../constants/Colors";
 
 function NumberContainer({children}) {
     return <View style={styles.container}>
